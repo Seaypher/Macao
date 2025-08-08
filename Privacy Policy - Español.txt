@@ -1,0 +1,82 @@
+POLÍTICA DE PRIVACIDAD
+
+Fecha de entrada en vigor: Agosto 2, 2025
+
+Desarrollador: Coman Marius-Constantin ("Seaypher")
+Contacto: seaypher@gmail.com
+Aplicable a: Macao
+
+Esta Política de Privacidad (en adelante la "Política") explica cómo el desarrollador Coman Marius-Constantin, que opera bajo el nombre de desarrollador "Seaypher" (en adelante, el "Desarrollador", "yo" o "mí"), recopila, utiliza, divulga y protege su información cuando utiliza la aplicación móvil Macao (en adelante, la "Aplicación"). Le recomendamos leer detenidamente esta Política para comprender qué datos se recopilan y cómo se gestionan.
+
+1. Información Recopilada
+La Aplicación puede recopilar los siguientes tipos de datos:
+a. Información personal (proporcionada voluntariamente)
+- Información que usted envía a través de la Aplicación (por ejemplo, comentarios, contenido generado por el usuario)
+- Información de contacto (si se proporciona voluntariamente al realizar consultas de soporte)
+Nota: No se recopila automáticamente información personal identificable (PII) sin su consentimiento explícito.
+b. Información sobre el dispositivo y el uso
+Los datos recopilados automáticamente pueden incluir:
+- Modelo del dispositivo, versión del sistema operativo, idioma y configuración regional
+- Dirección IP, identificadores del dispositivo (por ejemplo, ID de publicidad de Android)
+- Estadísticas de uso de la aplicación e informes de fallos
+c. Contenido enviado por el usuario
+Si la Aplicación permite la publicación o generación de contenido (texto, imágenes, audio, etc.), dicho contenido puede procesarse o almacenarse según sea necesario para el funcionamiento de la aplicación.
+
+2. Servicios de Terceros
+La Aplicación utiliza servicios de terceros que pueden recopilar información bajo sus propias políticas de privacidad. Estos servicios pueden incluir:
+- Google AdMob (para mostrar publicidad dentro de la aplicación)
+- Google Play Services (para análisis, actualizaciones de la aplicación, etc.)
+- Google Play Games Services (para funciones como guardado en la nube, logros y tablas de clasificación)
+- Plataformas de compras integradas en la aplicación (Google Play, etc.)
+Consulte sus respectivas políticas de privacidad: Política de Privacidad de Google.
+Estos terceros pueden utilizar cookies u otras tecnologías de seguimiento para ofrecer anuncios personalizados o medir el uso de la aplicación.
+
+3. Recopilación y Uso de Datos
+Si inicia sesión mediante Google Play Games Services, la Aplicación puede acceder a su perfil de Google Play Games (incluyendo su ID de jugador, nombre visible y logros). Estos datos se utilizan exclusivamente para ofrecer funciones dentro de la aplicación como guardado en la nube, progreso del jugador y logros. Los datos son almacenados y gestionados por Google, y la Aplicación no los almacena ni procesa fuera de los servicios proporcionados por Google.
+Sus datos pueden ser utilizados para:
+- Operar y mejorar la Aplicación
+- Responder a solicitudes o consultas de soporte
+- Mostrar anuncios relevantes
+- Procesar y completar compras dentro de la aplicación
+- Supervisar y analizar el uso y las tendencias
+
+4. Almacenamiento y Retención de Datos
+La información recopilada se almacena de forma segura y se conserva únicamente durante el tiempo necesario para:
+- Cumplir con los fines descritos en esta Política
+- Cumplir con obligaciones legales
+- Resolver disputas y hacer cumplir acuerdos
+Si desinstala la Aplicación, los datos locales se eliminarán de su dispositivo. No obstante, las plataformas de terceros pueden conservar registros anonimizados o perfiles publicitarios.
+
+5. Privacidad de los Menores
+La Aplicación no está dirigida a menores de 13 años (o la edad mínima legal aplicable en su jurisdicción).
+No recopilo conscientemente datos personales de menores sin el consentimiento de sus padres o tutores.
+Si cree que un menor ha proporcionado información personal sin autorización, contácteme en seaypher@gmail.com para su eliminación inmediata.
+AdMob puede limitar la recopilación de datos para usuarios identificados como menores de edad, pero no soy responsable de cómo los terceros aplican estas restricciones.
+
+6. Derechos y Controles del Usuario
+Dependiendo de su jurisdicción, usted puede tener derecho a:
+- Acceder o solicitar una copia de sus datos
+- Solicitar la eliminación o corrección de sus datos
+- Oponerse a ciertos tipos de procesamiento de datos
+Puede ejercer estos derechos contactándome en seaypher@gmail.com.
+
+7. Seguridad de los Datos
+Tomo medidas razonables para proteger su información contra accesos no autorizados, modificaciones, divulgaciones o destrucciones. No obstante, ningún método de transmisión por Internet o de almacenamiento electrónico es completamente seguro. Usted es responsable de proteger su dispositivo y cualquier dato almacenado en él.
+
+8. Usuarios Internacionales
+Sus datos pueden ser procesados y almacenados en Rumanía o en otros países donde yo o mis proveedores de servicios externos operen. Al utilizar la Aplicación, usted consiente este procesamiento.
+
+9. Cambios a Esta Política
+Esta Política de Privacidad puede actualizarse periódicamente. Los cambios se indicarán con una nueva fecha de entrada en vigor y podrán ser publicados en:
+- La propia Aplicación
+- El repositorio oficial de GitHub: https://github.com/Seaypher/Macao
+El uso continuado de la Aplicación después de cualquier cambio implica la aceptación de la política actualizada.
+
+10. Información de Contacto
+Si tiene preguntas, quejas o solicitudes con respecto a esta Política de Privacidad, puede contactarme en:
+Correo electrónico: seaypher@gmail.com
+
+11. Jurisdicción
+Esta Política de Privacidad se rige por las leyes de Rumanía. Si reside en la UE, el EEE u otra jurisdicción con leyes obligatorias de protección de datos, dichas leyes pueden prevalecer sobre ciertas disposiciones de esta política según corresponda.
+
+Última actualización: Agosto 2, 2025
